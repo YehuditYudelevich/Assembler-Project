@@ -1,0 +1,12 @@
+Welcome to our assembler!
+This program takes assembly code  and assembles it,
+turning it into a object file type that the computer is capable of reading!
+MACRO ADD (validMacro)
+MACRO ADD (macrname)
+Error on line 5: Error: Extra tokens after macro definition
+MACRO ADD (macr)
+Error on line 15: Error: Macro name same as instruction
+Error on line 20: Error: Macro already defined
+MACRO ADD (someMacro)
+Error on line 29: Error: Extra tokens after endmacr
+Error in macro processing of file 'invalid_macro.as'.

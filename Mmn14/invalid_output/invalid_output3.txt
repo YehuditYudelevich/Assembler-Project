@@ -1,0 +1,11 @@
+Welcome to our assembler!
+This program takes assembly code  and assembles it,
+turning it into a object file type that the computer is capable of reading!
+Macro processing completed successfully. the file in 'invalid_input3.am' .
+the process macro end
+Error on line 2: Error: Illegal label name
+Error on line 4: Error: Illegal label name
+Error on line 6: Error: Extra parameters
+Error on line 7: Error: Illegal label name
+Error on line 24: Error: Illegal label name
+Error in first pass of file 'invalid_input3.am'.

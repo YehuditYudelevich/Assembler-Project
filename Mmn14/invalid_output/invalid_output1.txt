@@ -1,0 +1,29 @@
+Welcome to our assembler!
+This program takes assembly code  and assembles it,
+turning it into a object file type that the computer is capable of reading!
+MACRO ADD (m_macr)
+Macro processing completed successfully. the file in 'invalid_input1.am' .
+the process macro end
+Error on line 1: Error: Missing operation
+Error on line 2: Error: Missing comma
+Error on line 4: Error: Illegal label name
+Error on line 5: Error: Illegal label name
+Error on line 6: Error: Illegal label name
+Error on line 7: Error: Extra parameters
+Error on line 8: Error: Unrecognized operation
+Error on line 9: Error: Illegal label name
+Error on line 10: Error: Unrecognized operation
+Error on line 11: Error: Missing operation
+Error on line 15: Error: The first parameter is not valid
+Error on line 17: Error: Extra parameters
+Error on line 19: Error: Extra parameters
+Error on line 22: Error: String not valid
+Error on line 23: Error: String not valid
+Error on line 24: Error: Excess text after command
+Error on line 26: Error: Missing operation
+Error on line 27: Error: Missing data
+Error on line 28: Error: Failed to export data
+Error on line 29: Error: Unrecognized operation
+Error on line 30: Error: Missing operation
+Error on line 31: Error: Missing operation
+Error in first pass of file 'invalid_input1.am'.
