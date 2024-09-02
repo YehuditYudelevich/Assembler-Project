@@ -1,0 +1,8 @@
+Welcome to our assembler!
+This program takes assembly code  and assembles it,
+turning it into a object file type that the computer is capable of reading!
+Macro processing completed successfully. the file in 'invalid_input4.am' .
+the process macro end
+First pass completed successfully.
+Error:  lebel that marked as Entry not found in this file
+Error in second pass of file 'invalid_input4.am'.

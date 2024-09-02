@@ -1,0 +1,13 @@
+Welcome to our assembler!
+This program takes assembly code  and assembles it,
+turning it into a object file type that the computer is capable of reading!
+Macro processing completed successfully. the file in 'invalid_input2.am' .
+the process macro end
+Error on line 3: Error: Unrecognized operation
+Error on line 4: Error: Unrecognized operation
+Error on line 5: Error: Unrecognized operation
+Error on line 6: Error: Extra parameters
+Error on line 9: Error: Illegal label name
+Error on line 10: Error: The first parameter is not valid
+Error on line 15: Error: The first parameter is not valid
+Error in first pass of file 'invalid_input2.am'.
