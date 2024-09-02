@@ -1,5 +1,5 @@
-Project Description
-Assembler Project is designed to develop a simulator for an assembler. The project includes source code and data for use with an assembler system, aiming to demonstrate and understand the process of converting assembly code to binary.
+Assembler Project.
+This project is designed to develop a simulator for an assembler. The project includes source code and data for use with an assembler system, aiming to demonstrate and understand the process of converting assembly code to binary.
 
 The project features:
 
